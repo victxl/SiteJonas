@@ -1,0 +1,27 @@
+.degrademaori{
+    background: rgb(59,57,58);
+    background: -moz-linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgba(255,255,255,1) 92%);
+    background: -webkit-linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgba(255,255,255,1) 92%);
+    background: linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgba(255,255,255,1) 92%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b393a",endColorstr="#ffffff",GradientType=1);
+
+    text-align: center;
+
+    
+    
+}
+.fundomaori{
+    background: rgb(59,57,58);
+    background: -moz-linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgb(80, 80, 80) 92%);
+    background: -webkit-linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgb(80, 80, 80) 92%);
+    background: linear-gradient(90deg, rgba(59,57,58,1) 0%, rgba(176,178,177,1) 71%, rgb(80, 80, 80) 92%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b393a",endColorstr="#ffffff",GradientType=1);
+}
+.fontemaori{
+    color: azure;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: larger;
+  
+    
+}
+
