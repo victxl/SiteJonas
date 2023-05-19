@@ -1,7 +1,8 @@
 .degrademaori{
-    background-color: #d7d7d7;
-    background-image: linear-gradient(147deg, #353535 0%, #d7d7d7 74%);
-    
+    /* background-color: #d7d7d7;
+    background-image: linear-gradient(147deg, #353535 0%, #d7d7d7 74%); */
+    background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
     
 }
 .fundomaori{
